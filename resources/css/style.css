@@ -22,7 +22,7 @@ header,
 }
 
 .bg-black {
-  background-color: black;
+  background-color: #141414;
 }
 
 .container {
@@ -39,11 +39,11 @@ header {
 }
 
 .logo {
-  padding: 1.5rem 0;
+  padding: 0.5rem 0;
 }
 
 .logo img {
-  height: 1.5em;
+  height: 4.5em;
   padding-right: 15px;
   vertical-align: middle;
 }
@@ -74,14 +74,16 @@ nav li a{
 }
 
 .hero {
-  background-image: url('../images/moto.jpeg');
+  background-color: #01152b;
+  background-image: url('../images/thumb_4797_producto_pagina_large.jpeg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 90%;
+  background-position: 45% 47%;
   height: 30rem;
 }
 
 .title-box {
-  width: 25rem;
+  width: 40rem;
   height: 12rem;
 }
 
